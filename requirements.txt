@@ -1,0 +1,8 @@
+matplotlib
+numpy
+PyPDF2
+scikit-learn
+xgboost
+joblib
+pdf2image
+
