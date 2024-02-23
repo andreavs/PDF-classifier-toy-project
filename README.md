@@ -7,7 +7,7 @@ To tour this repo, it makes the most sense to do it in the following order:
 1. `eda.py` - here you will find some exploritory data analysis of the pdfs. The code will produce a few figures when run 
 2. `model_training.py` - here we use a simple decision tree model to train a classifier on the data. When run, the code will store the classifier and the label encoder 
 3. `classifier.py` - Here the classifier packaged and used to classify new documents 
-4. `just_ask_chatgpt.py` Just for fun, we here explore the approach of just sending the first page of the pdf to chatgpt. 
+4. `just_ask_chatgpt.py` Just for fun, we here explore the approach of just sending the first page of the pdf to chatgpt. Please note that running this will require an openAI api key, and charges will incur.
 
 ## Running the code 
 the requirements needed to run the code are stored in the `requirements.txt` file 
